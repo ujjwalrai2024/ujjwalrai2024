@@ -2,19 +2,12 @@
 
 I'm a Full stack developer with a passion for Web development. Welcome to my GitHub profile! 
 
-🔭 I'm currently working on "Youtube Backend Clone".
-🌱 I'm currently learning MERN Stack .
-👯 I'm looking to collaborate on "youtube Backend Clone":.
+
 💬 Ask me about Jobs, coding, Development, Backend.
 📫 How to reach me: raiujjwal2003@gmail.com .
 
 ## Skills and Technologies
 
-- Java
-- JavaScript
-- Node JS
-- mongoDB
-- MySQL
 
 ## GitHub Stats
 
@@ -25,5 +18,5 @@ I'm a Full stack developer with a passion for Web development. Welcome to my Git
 You can find me on the web or contact me through the following channels:
 
 - [[LinkedIn](https://www.linkedin.com/in/ujjwal-rai-95a7a8208/)]
-- [[Twitter](https://twitter.com/ujjwalrai2003)]
+- [[Twitter](https://twitter.com/ujjwalrai2024)]
 - [raiujjwal2003@gmail.com]
