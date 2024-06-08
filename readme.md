@@ -18,7 +18,7 @@ I'm a Full stack developer with a passion for Web development. Welcome to my Git
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwalrai2024)](https://github.com/Raiujjwal2003/Raiujjwal2003)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwalrai2024)](https://github.com/ujjwalrai2024/ujjwalrai2024)
 
 ## Connect with Me
 
